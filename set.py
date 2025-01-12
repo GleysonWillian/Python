@@ -3,6 +3,7 @@
 # O set usa chaves {}. A lista usa [];
 # Não tem índice
 # Consigo adicionar e remover valores, mas nunca mudar um valor por outro
+# Os valores podem ser strings, numeros, booleanos
 
 #frutas = {"Maça", "Laranja", "Banana"}
 
