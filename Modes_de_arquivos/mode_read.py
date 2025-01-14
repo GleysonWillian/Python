@@ -9,7 +9,7 @@
 
 
 # Função para verificar se o arquivo pode ser lido ou não:
-arquivo = open("Aula sobre arquivos/Test.txt", "r")
+arquivo = open("Modes_de_arquivos/Test.txt", "r")
 
 #print(arquivo.readable())
 #print(arquivo.read())

@@ -7,8 +7,8 @@ import os
 # Se tentar compilar o código novamente, vai dar erro, pois o arquivo não existe mais.
 
 # Código para verificar se o arquivo existe ou não e, caso não existe, irá aparecer a mensagem após a comparação 'else'.
-if os.path.exists("Modes de arquivos/test2.txt"):
-    os.remove("Modes de arquivos/test2.txt")
+if os.path.exists("Modes_de_arquivos/test2.txt"):
+    os.remove("Modes_de_arquivos/test2.txt")
     print("Teste excluído com sucesso!")
 else:
     print("Arquivo inexistente!")
