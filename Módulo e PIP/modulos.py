@@ -9,3 +9,5 @@ print(tools.PI)
 print(tools.GRAVITY)
 print(tools.get_extension("test.txt"))
 print(tools.highest_number([1,2,-560,800,1500,89]))
+
+# Os módulos servem para a reutilização de códigos uma vez já escrito
